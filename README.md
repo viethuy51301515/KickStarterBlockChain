@@ -1,7 +1,9 @@
 # Project Setup
 
 1.build on nextJs solidity web3
+
 2.run npm install
+
 3.need a meta mask wallet
 
 # project description
