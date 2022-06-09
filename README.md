@@ -1,15 +1,13 @@
-# KickStarterBlockChain
+# Project Setup
 
-# build on nextJs solidity web3
+1.build on nextJs solidity web3
+2.run npm install
+3.need a meta mask wallet
 
-# run npm install
+# project description
 
-# need a meta mask wallet
+1.Manager can create a campaign, and other users can contribute value to be a contributor.
 
-# project description :
+2.Manager can create many request in one campaign for doing something, and need to be approved by contributor.
 
-## Manager can create a campaign, and other users can contribute value to be a contributor.
-
-## Manager can create many request in one campaign for doing something, and need to be approved by contributor.
-
-## After Request got approvals more than a half of contributor, The Manager can finalize the request and the request will excuse
+3.After Request got approvals more than a half of contributor, The Manager can finalize the request and the request will excuse
